@@ -1,11 +1,11 @@
 # ccmc-swpc-cat-web
 
 
-ccmc-swpc-cat-web is a new CCMC web implementation of NOAA's SWPC_CAT IDL program.  
+ccmc-swpc-cat-web is a new CCMC web implementation of the NOAA's SWPC_CAT IDL program.  
 
-The project page is located at the Community Coordinated Modeling Center, located at NASA Goddard Space Flight Center.
+The project page is hosted by the Community Coordinated Modeling Center (CCMC) at NASA Goddard Space Flight Center.
 
-Official site page https://webserver1.ccmc.gsfc.nasa.gov/swpc_cat_web/
+Official site page https://ccmc.gsfc.nasa.gov/swpc_cat_web/
 
 ccmc-swpc-cat-web source code is hosted on github under a permissive NASA open source license:
 
